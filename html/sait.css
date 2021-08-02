@@ -1,0 +1,150 @@
+body {
+	margin: 0;
+}
+
+
+header {
+	color: green;
+	background: red;
+	text-align: center;
+	height: 100px;
+	width: 100;
+}
+
+#first_p {
+	color: blue;
+	text-align: right;
+}
+
+#first_span {
+cursor: pointer;
+
+}
+
+#second_span {
+	cursor: pointer;
+  color: indigo;
+}
+
+
+#second_header {
+	
+	color: yellow;
+	background: green;
+}
+
+#second_p {
+	text-align: right;
+	color: white;
+}
+
+#th_p {
+	text-align: right;
+	color: white;
+}
+
+.four_p{
+	text-align: right;
+	color: white;
+	font-family: monospace;
+}
+.five_p{
+	text-align: right;
+	color: white;
+	font-family: monospace;
+}
+.second_header {
+
+}
+
+.first_i{
+	font-size: 32px;
+	font-family: fantasy;
+}
+
+.second_i{
+	font-size: 50px;
+	font-family: monospace;
+}
+ .main {
+ 	background: #666;
+ }
+  .footer{
+  	background: purple;
+  }
+  .button{
+
+color: green;
+cursor: pointer;
+font-family: Roboto, Verdana, Tahoma, sans;
+
+  }
+  .logo{
+  	display: flex;
+  	justify-content: right;
+  	height: 30px;
+ 
+  }
+
+  .second_logo{
+display: flex;
+justify-content: right;
+height: 30px;
+
+  }
+  .table{
+  	color: greenyellow;
+
+  }
+
+  .three_i{
+  	color: aqua;
+  	font-family: Verdana, sans-serif;
+  	text-transform: uppercase;
+  }
+
+  .second_main{
+background: #666;
+
+  }
+
+  .six_p{
+text-align: center;
+font-family: monospace;
+  }
+
+  .second_div{
+background: #555;
+
+  }
+
+  .four_i{
+font-size: 20px;
+color: white;
+font-family: monospace;
+text-align: right;
+
+  }
+
+  .three_div{
+background: #666;
+
+  }
+
+  .four_div{
+   background: black;
+  }
+
+ .five_div {
+ background: black;
+  }
+
+ .seven_p{
+color: aqua;
+font-family: Verdana, sans-serif;
+text-transform: uppercase;
+ }
+
+ .six_div{
+   background: black;
+ }
